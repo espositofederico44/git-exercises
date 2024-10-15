@@ -1,0 +1,3 @@
+hello (i insert, :wq)
+new line from fix
+new line from dex 
