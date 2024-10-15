@@ -1,5 +1,4 @@
 #not track
 hello-a.js
-#all log file with an exception (file.log is tracked)
 *.log
 !file.log
